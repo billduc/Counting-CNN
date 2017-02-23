@@ -1,0 +1,7 @@
+export PATH=/home/ducnt/caffe/build/tools:$PATH
+
+export PYTHONPATH=/home/ducnt/caffe/python:$PYTHONPATH
+
+export PATH=/usr/local/cuda-7.0/bin:$PATH
+
+export LD_LIBRARY_PATH=/usr/local/cuda-7.0/lib64:$LD_LIBRARY_PATH
